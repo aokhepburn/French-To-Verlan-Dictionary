@@ -9,6 +9,7 @@ import {
 import Root from './routes/Root.jsx'
 import VerlanList from './routes/VerlanList.jsx'
 import Home from './routes/Home.jsx'
+import CreateAnExample from './routes/CreateAnExample.jsx'
 
 const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
       {
         path: 'home',
         element: <Home />
+      },
+      {
+        path: 'createexample',
+        element: <CreateAnExample />
       }]
 
   }

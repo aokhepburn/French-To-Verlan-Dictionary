@@ -2,17 +2,20 @@
   {
     "id": 0,
     "verlan": "Ainf",
-    "francais": "Faim"
+    "francais": "Faim",
+    "anglais": "Hungry"
   },
   {
     "id": 1,
     "verlan": "À oil pé",
-    "francais": "A poil"
+    "francais": "A poil",
+    "anglais": "Naked"
   },
   {
     "id": 2,
     "verlan": "Asmeuk",
-    "francais": "Comme ça"
+    "francais": "Comme ça",
+    "anglais": ""
   },
   {
     "id": 3,
