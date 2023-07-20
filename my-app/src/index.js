@@ -15,20 +15,22 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <Root />,
-    children: [
-      {
-        path: 'verlanlist',
-        element: <VerlanList />,
-        loader: async () => fetch("http://localhost:3000/verlanObject").then(response => response.json())
-      },
-      {
-        path: 'home',
-        element: <Home />
-      },
-      {
-        path: 'createexample',
-        element: <CreateAnExample />
-      }]
+    children:
+      [
+        {
+          path: 'verlanlist',
+          element: <VerlanList />,
+          loader: async () => fetch("http://localhost:3000/verlanObject").then(response => response.json())
+        },
+        {
+          path: 'home',
+          element: <Home />
+        },
+        {
+          path: 'createexample',
+          element: <CreateAnExample />,
+          loader: async () => fetch("http://localhost:3000/verlanExemple").then(response => response.json())
+        }]
 
   }
 ])

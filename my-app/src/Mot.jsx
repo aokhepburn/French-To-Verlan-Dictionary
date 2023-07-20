@@ -11,12 +11,11 @@ function displayEnglish(){
 }
 
 return(
-    <tr className="lowercase hover:text-1xl">
+    <tr className="lowercase hover:text-2xl">
         <td>
             {verlan}
         </td>
-        {/*<td onMouseEnter={displayEnglish} onMouseLeave={displayEnglish}>{hideEnglish ? francais : english}</td>*/}
-        <td>{francais}</td>
+        <td onClick={displayEnglish}>{hideEnglish ? francais : english}</td>
     </tr>
 )
 }

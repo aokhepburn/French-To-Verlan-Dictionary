@@ -20,9 +20,8 @@ export default function VerlanList() {
   const mappedWords = words.map(word=><Mot key={word.id} mot={word}/>)
 
     return (
-      <div>
-        {/*<h1 onClick={()=>setDisplayLetters()}>Browse By First Letter {displayLetters ? <Alphabet /> : "null"}</h1>*/}
-    <table class="table-results">
+      <div className="flex flex-col items-center w-3/4">
+    <table className="flex flex-col items-center w-3/4">
 
       <tbody>
         <tr>
