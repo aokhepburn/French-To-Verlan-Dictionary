@@ -9,21 +9,28 @@ import {
 import Root from './routes/Root.jsx'
 import VerlanList from './routes/VerlanList.jsx'
 import Home from './routes/Home.jsx'
+import CreateAnExample from './routes/CreateAnExample.jsx'
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <Root />,
-    children: [
-      {
-        path: 'verlanlist',
-        element: <VerlanList />,
-        loader: async () => fetch("http://localhost:3000/verlanObject").then(response => response.json())
-      },
-      {
-        path: 'home',
-        element: <Home />
-      }]
+    children:
+      [
+        {
+          path: 'verlanlist',
+          element: <VerlanList />,
+          loader: async () => fetch("http://localhost:3000/verlanObject").then(response => response.json())
+        },
+        {
+          path: 'home',
+          element: <Home />
+        },
+        {
+          path: 'createexample',
+          element: <CreateAnExample />,
+          loader: async () => fetch("http://localhost:3000/verlanExemple").then(response => response.json())
+        }]
 
   }
 ])
