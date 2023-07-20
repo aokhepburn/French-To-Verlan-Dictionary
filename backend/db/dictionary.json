@@ -16,7 +16,7 @@
       "id": 2,
       "verlan": "Asmeuk",
       "francais": "Comme ça",
-      "english": "Like that"
+      "english": "🤷‍♀️"
     },
     {
       "id": 3,
@@ -75,12 +75,14 @@
     {
       "id": 12,
       "verlan": "Bleric",
-      "francais": "Calibre"
+      "francais": "Calibre",
+      "english": "Type"
     },
     {
       "id": 13,
       "verlan": "Caillera",
-      "francais": "Racaille"
+      "francais": "Racaille",
+      "english": "Riffraff"
     },
     {
       "id": 14,
@@ -103,7 +105,8 @@
     {
       "id": 17,
       "verlan": "Cegar",
-      "francais": "Garce"
+      "francais": "Garce",
+      "english": "Bitch"
     },
     {
       "id": 18,
@@ -114,37 +117,44 @@
     {
       "id": 19,
       "verlan": "Charclo",
-      "francais": "Clochard"
+      "francais": "Clochard",
+      "english": "Vagrant"
     },
     {
       "id": 20,
       "verlan": "Chébran",
-      "francais": "Branché"
+      "francais": "Branché",
+      "english": "Cool"
     },
     {
       "id": 21,
       "verlan": "Chela",
-      "francais": "Lâcher"
+      "francais": "Lâcher",
+      "english": "Let loose"
     },
     {
       "id": 22,
       "verlan": "Chelou",
-      "francais": "Louche"
+      "francais": "Louche",
+      "english": "Sleazy"
     },
     {
       "id": 23,
       "verlan": "Chetron",
-      "francais": "Tronche"
+      "francais": "Tronche",
+      "english": "Face"
     },
     {
       "id": 24,
       "verlan": "Cheum",
-      "francais": "Moche"
+      "francais": "Moche",
+      "english": "Ugly"
     },
     {
       "id": 25,
       "verlan": "Cheuri",
-      "francais": "Riche"
+      "francais": "Riche",
+      "english": "Rich"    
     },
     {
       "id": 26,
@@ -161,12 +171,14 @@
     {
       "id": 28,
       "verlan": "Comass",
-      "francais": "Comme ça"
+      "francais": "Comme ça",
+      "english": "🤷‍♀️🤷‍♀️"
     },
     {
       "id": 29,
       "verlan": "Croma",
-      "francais": "Macro"
+      "francais": "Macro",
+      "english": ""
     },
     {
       "id": 30,
@@ -760,7 +772,8 @@
     {
       "id": 142,
       "verlan": "Zicmu",
-      "francais": "Musique"
+      "francais": "Musique",
+      "english": "Music"
     },
     {
       "id": 143,
