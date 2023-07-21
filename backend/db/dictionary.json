@@ -1,0 +1,795 @@
+{
+  "verlanObject": [
+    {
+      "id": 0,
+      "verlan": "Ainf",
+      "francais": "Faim",
+      "english": "Hungry"
+    },
+    {
+      "id": 1,
+      "verlan": "À oil pé",
+      "francais": "A poil",
+      "english": "Naked"
+    },
+    {
+      "id": 2,
+      "verlan": "Asmeuk",
+      "francais": "Comme ça",
+      "english": "🤷‍♀️"
+    },
+    {
+      "id": 3,
+      "verlan": "Auch",
+      "francais": "Chaud",
+      "english": "Hot"
+    },
+    {
+      "id": 4,
+      "verlan": "Asse",
+      "francais": "ça",
+      "english": "That"
+    },
+    {
+      "id": 5,
+      "verlan": "Bégère",
+      "francais": "Gerber",
+      "english": "Puke"
+    },
+    {
+      "id": 6,
+      "verlan": "Beubard",
+      "francais": "Barbe",
+      "english": "Beard"
+    },
+    {
+      "id": 7,
+      "verlan": "Beubon",
+      "francais": "Bombe, belle fille",
+      "english": "Bombshell"
+    },
+    {
+      "id": 8,
+      "verlan": "Beuh",
+      "francais": "Herbe",
+      "english": "Weed"
+    },
+    {
+      "id": 9,
+      "verlan": "Beuj",
+      "francais": "Jambe",
+      "english": "Leg"
+    },
+    {
+      "id": 10,
+      "verlan": "Beur",
+      "francais": "Arabe",
+      "english": "Arab"
+    },
+    {
+      "id": 11,
+      "verlan": "Blempro",
+      "francais": "Problème",
+      "english": "Problem"
+    },
+    {
+      "id": 12,
+      "verlan": "Bleric",
+      "francais": "Calibre",
+      "english": "Type"
+    },
+    {
+      "id": 13,
+      "verlan": "Caillera",
+      "francais": "Racaille",
+      "english": "Riffraff"
+    },
+    {
+      "id": 14,
+      "verlan": "Cainri",
+      "francais": "Américain",
+      "english": "American"
+    },
+    {
+      "id": 15,
+      "verlan": "Cancevas",
+      "francais": "Vacances",
+      "english": "Vacation"
+    },
+    {
+      "id": 16,
+      "verlan": "Céhusse",
+      "francais": "Sucer",
+      "english": "Sweet"
+    },
+    {
+      "id": 17,
+      "verlan": "Cegar",
+      "francais": "Garce",
+      "english": "Bitch"
+    },
+    {
+      "id": 18,
+      "verlan": "Céfran",
+      "francais": "Français",
+      "english": "French"
+    },
+    {
+      "id": 19,
+      "verlan": "Charclo",
+      "francais": "Clochard",
+      "english": "Vagrant"
+    },
+    {
+      "id": 20,
+      "verlan": "Chébran",
+      "francais": "Branché",
+      "english": "Cool"
+    },
+    {
+      "id": 21,
+      "verlan": "Chela",
+      "francais": "Lâcher",
+      "english": "Let loose"
+    },
+    {
+      "id": 22,
+      "verlan": "Chelou",
+      "francais": "Louche",
+      "english": "Sleazy"
+    },
+    {
+      "id": 23,
+      "verlan": "Chetron",
+      "francais": "Tronche",
+      "english": "Face"
+    },
+    {
+      "id": 24,
+      "verlan": "Cheum",
+      "francais": "Moche",
+      "english": "Ugly"
+    },
+    {
+      "id": 25,
+      "verlan": "Cheuri",
+      "francais": "Riche",
+      "english": "Rich"    
+    },
+    {
+      "id": 26,
+      "verlan": "Cimère",
+      "francais": "Merci",
+      "english": "Thank you"
+    },
+    {
+      "id": 27,
+      "verlan": "Cistera",
+      "francais": "Raciste",
+      "english": "Racist"
+    },
+    {
+      "id": 28,
+      "verlan": "Comass",
+      "francais": "Comme ça",
+      "english": "🤷‍♀️🤷‍♀️"
+    },
+    {
+      "id": 29,
+      "verlan": "Croma",
+      "francais": "Macro",
+      "english": ""
+    },
+    {
+      "id": 30,
+      "verlan": "Dasse",
+      "francais": "Sida"
+    },
+    {
+      "id": 31,
+      "verlan": "Diska",
+      "francais": "Sadique"
+    },
+    {
+      "id": 32,
+      "verlan": "Dep",
+      "francais": "Pédé"
+    },
+    {
+      "id": 33,
+      "verlan": "Donbi",
+      "francais": "Bidon"
+    },
+    {
+      "id": 34,
+      "verlan": "Donf",
+      "francais": "Fond"
+    },
+    {
+      "id": 35,
+      "verlan": "Drepou",
+      "francais": "Poudre"
+    },
+    {
+      "id": 36,
+      "verlan": "Eins",
+      "francais": "Seins"
+    },
+    {
+      "id": 37,
+      "verlan": "En deuspi",
+      "francais": "En speed, rapidement",
+      "english": "ASAP"
+    },
+    {
+      "id": 38,
+      "verlan": "Feuj",
+      "francais": "Juif",
+      "english": "Jew"
+    },
+    {
+      "id": 39,
+      "verlan": "Fonsdé",
+      "francais": "Défoncé",
+      "english": "Stoned"
+    },
+    {
+      "id": 40,
+      "verlan": "Géman",
+      "francais": "Manger",
+      "english": "Eat"
+    },
+    {
+      "id": 41,
+      "verlan": "Goleri",
+      "francais": "Rigoler"
+    },
+    {
+      "id": 42,
+      "verlan": "Golmon",
+      "francais": "Mongole"
+    },
+    {
+      "id": 43,
+      "verlan": "Gossebo",
+      "francais": "Beau Gosse"
+    },
+    {
+      "id": 44,
+      "verlan": "Gueudin",
+      "francais": "Dingue"
+    },
+    {
+      "id": 45,
+      "verlan": "Gueus",
+      "francais": "String"
+    },
+    {
+      "id": 46,
+      "verlan": "Iench",
+      "francais": "Chien",
+      "english": "Dog"
+    },
+    {
+      "id": 47,
+      "verlan": "Iep",
+      "francais": "Pieds"
+    },
+    {
+      "id": 48,
+      "verlan": "Joibour",
+      "francais": "Bourgeois"
+    },
+    {
+      "id": 49,
+      "verlan": "Ken",
+      "francais": "Niquer",
+      "english": "Fuck - as in the act"
+    },
+    {
+      "id": 50,
+      "verlan": "Keubla",
+      "francais": "Black, personne de couleur"
+    },
+    {
+      "id": 51,
+      "verlan": "Keuf",
+      "francais": "Flics"
+    },
+    {
+      "id": 52,
+      "verlan": "Keum",
+      "francais": "Mec"
+    },
+    {
+      "id": 53,
+      "verlan": "Keus",
+      "francais": "Sec"
+    },
+    {
+      "id": 54,
+      "verlan": "Kospa",
+      "francais": "Pakistanais"
+    },
+    {
+      "id": 55,
+      "verlan": "Laisses béton",
+      "francais": "Laisses tomber"
+    },
+    {
+      "id": 56,
+      "verlan": "Lanceba",
+      "francais": "Balance"
+    },
+    {
+      "id": 57,
+      "verlan": "Leurdi",
+      "francais": "Dealer"
+    },
+    {
+      "id": 58,
+      "verlan": "Leust",
+      "francais": "Style"
+    },
+    {
+      "id": 59,
+      "verlan": "Méfu",
+      "francais": "Fumer",
+      "english": "Smoke"
+    },
+    {
+      "id": 60,
+      "verlan": "Meuca",
+      "francais": "Came"
+    },
+    {
+      "id": 61,
+      "verlan": "Meuf",
+      "francais": "Femme",
+      "english": "Woman"
+    },
+    {
+      "id": 62,
+      "verlan": "Mifa",
+      "francais": "Famille",
+      "english": "Family"
+    },
+    {
+      "id": 63,
+      "verlan": "Nawak",
+      "francais": "N’importe quoi",
+      "english": ""
+    },
+    {
+      "id": 64,
+      "verlan": "Némo",
+      "francais": "Monnaie",
+      "english": "Money"
+    },
+    {
+      "id": 65,
+      "verlan": "Nesbi",
+      "francais": "Business"
+    },
+    {
+      "id": 66,
+      "verlan": "Noich",
+      "francais": "Chinois",
+      "english": "Chinese"
+    },
+    {
+      "id": 67,
+      "verlan": "Nombo",
+      "francais": "Bonhomme",
+      "english": ""
+    },
+    {
+      "id": 68,
+      "verlan": "Ouade",
+      "francais": "Doigt"
+    },
+    {
+      "id": 69,
+      "verlan": "Ouam",
+      "francais": "Moi",
+      "english": "Me!"
+    },
+    {
+      "id": 70,
+      "verlan": "Ouat",
+      "francais": "Toi",
+      "english": "You!"
+    },
+    {
+      "id": 71,
+      "verlan": "Ouinje",
+      "francais": "Joint",
+      "english": "Spliff"
+    },
+    {
+      "id": 72,
+      "verlan": "Ouf",
+      "francais": "Fou",
+      "english": "Fuck - exclamation"
+    },
+    {
+      "id": 73,
+      "verlan": "Pecho",
+      "francais": "Choper"
+    },
+    {
+      "id": 74,
+      "verlan": "Pedo",
+      "francais": "Dope",
+      "english": "Weed"
+    },
+    {
+      "id": 75,
+      "verlan": "Péta",
+      "francais": "Taper"
+    },
+    {
+      "id": 76,
+      "verlan": "Peupon",
+      "francais": "Pompes"
+    },
+    {
+      "id": 77,
+      "verlan": "Peura",
+      "francais": "Rap",
+      "english": "Rap"
+    },
+    {
+      "id": 78,
+      "verlan": "Pineco",
+      "francais": "Copine"
+    },
+    {
+      "id": 79,
+      "verlan": "Poteca",
+      "francais": "Capote"
+    },
+    {
+      "id": 80,
+      "verlan": "Quesca",
+      "francais": "Casque"
+    },
+    {
+      "id": 81,
+      "verlan": "Ramps",
+      "francais": "Parents",
+      "english": "Parents"
+    },
+    {
+      "id": 82,
+      "verlan": "Relou",
+      "francais": "Lourd"
+    },
+    {
+      "id": 83,
+      "verlan": "Renoi",
+      "francais": "Noir",
+      "english": "Black"
+    },
+    {
+      "id": 84,
+      "verlan": "Résoi",
+      "francais": "Soirée",
+      "english": "Party"
+    },
+    {
+      "id": 85,
+      "verlan": "Reuch",
+      "francais": "Cher",
+      "english": "Dear"
+    },
+    {
+      "id": 86,
+      "verlan": "Reuf",
+      "francais": "Frère",
+      "english": "Brother"
+    },
+    {
+      "id": 87,
+      "verlan": "Reum",
+      "francais": "Mère",
+      "english": "Mother"
+    },
+    {
+      "id": 88,
+      "verlan": "Reup",
+      "francais": "Père",
+      "english": "Father"
+    },
+    {
+      "id": 89,
+      "verlan": "Reuss",
+      "francais": "Sœur",
+      "english": "Sister"
+    },
+    {
+      "id": 90,
+      "verlan": "Reusta",
+      "francais": "Star"
+    },
+    {
+      "id": 91,
+      "verlan": "Ripou",
+      "francais": "Pourri, mal intentionné",
+      "english": ""
+    },
+    {
+      "id": 92,
+      "verlan": "Rotka",
+      "francais": "Carotte"
+    },
+    {
+      "id": 93,
+      "verlan": "Scleum",
+      "francais": "Musclé"
+    },
+    {
+      "id": 94,
+      "verlan": "Scrédit",
+      "francais": "Discret"
+    },
+    {
+      "id": 95,
+      "verlan": "Sebu",
+      "francais": "Bus"
+    },
+    {
+      "id": 96,
+      "verlan": "Seuf",
+      "francais": "Fesse"
+    },
+    {
+      "id": 97,
+      "verlan": "Sketba",
+      "francais": "Basket"
+    },
+    {
+      "id": 98,
+      "verlan": "Staïve",
+      "francais": "C’est ta vie"
+    },
+    {
+      "id": 99,
+      "verlan": "Starco",
+      "francais": "Costume"
+    },
+    {
+      "id": 100,
+      "verlan": "Stremon",
+      "francais": "Monstre"
+    },
+    {
+      "id": 101,
+      "verlan": "Tanj",
+      "francais": "Gitan"
+    },
+    {
+      "id": 102,
+      "verlan": "Tarba",
+      "francais": "Bâtard"
+    },
+    {
+      "id": 103,
+      "verlan": "Tarpé",
+      "francais": "Pétard"
+    },
+    {
+      "id": 104,
+      "verlan": "Tasspé",
+      "francais": "Pétasse"
+    },
+    {
+      "id": 105,
+      "verlan": "Téci",
+      "francais": "Cité"
+    },
+    {
+      "id": 106,
+      "verlan": "Técla",
+      "francais": "Eclaté"
+    },
+    {
+      "id": 107,
+      "verlan": "Teillebout",
+      "francais": "Bouteille"
+    },
+    {
+      "id": 108,
+      "verlan": "Téma",
+      "francais": "Mater"
+    },
+    {
+      "id": 109,
+      "verlan": "Teubé",
+      "francais": "Bête"
+    },
+    {
+      "id": 110,
+      "verlan": "Teuf",
+      "francais": "Fête"
+    },
+    {
+      "id": 111,
+      "verlan": "Teuhon",
+      "francais": "Honte"
+    },
+    {
+      "id": 112,
+      "verlan": "Teupu",
+      "francais": "Pute"
+    },
+    {
+      "id": 113,
+      "verlan": "Tijan",
+      "francais": "Gentil"
+    },
+    {
+      "id": 114,
+      "verlan": "Tièpe",
+      "francais": "Pitié"
+    },
+    {
+      "id": 115,
+      "verlan": "Tefou",
+      "francais": "Foot"
+    },
+    {
+      "id": 116,
+      "verlan": "Teuchi",
+      "francais": "Shit"
+    },
+    {
+      "id": 117,
+      "verlan": "Trom",
+      "francais": "Métro"
+    },
+    {
+      "id": 118,
+      "verlan": "Turvoi",
+      "francais": "Voiture"
+    },
+    {
+      "id": 119,
+      "verlan": "Uc",
+      "francais": "Cul"
+    },
+    {
+      "id": 120,
+      "verlan": "Up",
+      "francais": "Puer"
+    },
+    {
+      "id": 121,
+      "verlan": "Vénère",
+      "francais": "Enervé"
+    },
+    {
+      "id": 122,
+      "verlan": "Verlan",
+      "francais": "Envers"
+    },
+    {
+      "id": 123,
+      "verlan": "Vesqui",
+      "francais": "Esquiver"
+    },
+    {
+      "id": 124,
+      "verlan": "Veuche",
+      "francais": "Cheveux"
+    },
+    {
+      "id": 125,
+      "verlan": "Veugra",
+      "francais": "Grave"
+    },
+    {
+      "id": 126,
+      "verlan": "Wam",
+      "francais": "Moi"
+    },
+    {
+      "id": 127,
+      "verlan": "Wat",
+      "francais": "Toi"
+    },
+    {
+      "id": 128,
+      "verlan": "Yièche",
+      "francais": "Chier"
+    },
+    {
+      "id": 129,
+      "verlan": "Yienche",
+      "francais": "Chien",
+      "english": "Dog"
+    },
+    {
+      "id": 130,
+      "verlan": "Yecou",
+      "francais": "Couille"
+    },
+    {
+      "id": 131,
+      "verlan": "Yèp",
+      "francais": "Pieds"
+    },
+    {
+      "id": 132,
+      "verlan": "Yeuve",
+      "francais": "Vieux"
+    },
+    {
+      "id": 133,
+      "verlan": "Yoc",
+      "francais": "Couilles"
+    },
+    {
+      "id": 134,
+      "verlan": "Youvoi",
+      "francais": "Voyou"
+    },
+    {
+      "id": 135,
+      "verlan": "Zarbi",
+      "francais": "Bizarre"
+    },
+    {
+      "id": 136,
+      "verlan": "Zèbe",
+      "francais": "Baise"
+    },
+    {
+      "id": 137,
+      "verlan": "Zèber",
+      "francais": "Baiser"
+    },
+    {
+      "id": 138,
+      "verlan": "Zedou",
+      "francais": "Douze"
+    },
+    {
+      "id": 139,
+      "verlan": "Zen",
+      "francais": "Nez"
+    },
+    {
+      "id": 140,
+      "verlan": "Zermi",
+      "francais": "Misère"
+    },
+    {
+      "id": 141,
+      "verlan": "Zeyo",
+      "francais": "Oseille"
+    },
+    {
+      "id": 142,
+      "verlan": "Zicmu",
+      "francais": "Musique",
+      "english": "Music"
+    },
+    {
+      "id": 143,
+      "verlan": "Zinc",
+      "francais": "Cousin"
+    },
+    {
+      "id": 144,
+      "verlan": "Zy va",
+      "francais": "Vas-y"
+    }
+  ],
+  "verlanExemple": [
+    {
+      "id": 0,
+      "exemple": "Ce film est ouf, j’ai adoré le jeu d’acteur !"
+    }
+  ]
+}
