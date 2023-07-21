@@ -10,10 +10,7 @@ export default function VerlanList() {
 
     const [searchText, setSearchText] = useState('')
 
-  const searchWords = words.filter(word =>
-  word.francais.toLowerCase().includes(searchText.toLowerCase())
-  || word.english.toLowerCase().includes(searchText.toLowerCase())
-  )
+  const searchWords = words.filter(word => word.francais.toLowerCase().includes(searchText.toLowerCase()))
 
   const mappedWords = searchWords.map(word=><Mot key={word.id} mot={word}/>)
 
