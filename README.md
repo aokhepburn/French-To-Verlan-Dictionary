@@ -1,8 +1,39 @@
-# PHASE 2 PROJECT
-# Verlan Dictionary
+<p align="center">
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
+<a href="https://devdocs.io/javascript/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/></a></p>
 
-For this project Eddie, my partner, and I decided to make a small dictionary website for the French slang, Verlan. While I was able to find one website with a more comprehensive list of Verlan it was only for French, and part of the goal was to make it more accessible for English speakers. Unfortunately that means we are doing the translation as it is very idiomatic so using a translation tool without context made a lot of the translations inaccurate. So the turn to English feature is not functional for the whole site.
+<h1 align="center"><b>Verlan Dictionary</b></h1>
 
-Using react routing I made a navbar with links that enables the user to go to either the full dictionary, an examples page or just the home page. Also in the navbar are two buttons that allow the user to switch the navigation from French to English, those click events control a state that is in the Root.jsx component and then passed to the other children through Outlet which is a curveball to start using after learning routing on Monday but once implemented was obviously very useful.
+## Introduction
 
-The search bar is not fully functional in both French and English yet as I did not realize til after that I needed to at least have an empty string for the key "english" but as not currently one can only search in French. I plan on fixing that, perhaps with a default value telling the user we do not have a definition yet and inviting them to submit their own with a patch.
+Verlan is a French slang, and though we were able to find a website that had translations between standard French and Verlan we could not find one that included English translations. So we built a simple website with a JSON database that is attempting to provide English translations as well as standard French.
+
+<p align="center"><img src="/demo-assets/verlanDictionaryBasicFunctions.gif"></p>
+
+## Instructions
+
+To run this project in your own local development environment follow these steps:
+
+1. Clone the repository to your local environment.
+   - If you're working with HTTPS, use `git clone https://github.com/djprofessorkash/stable-diffusion-demo-api.git`.
+   - If you're working with SSH, use `git clone git@github.com/djprofessorkash/stable-diffusion-demo-api.git`.
+2. Navigate to your `backend` subdirectory from the project root directory.
+   - First, call `npm install` to install all referenced dependencies in our packaged files.
+   - Next, run `npm start` to activate your backend.
+3. With your backend now active, navigate to your frontend folder by traveling back to your root directory and back cd into `my-app`.
+   - Again, install these dependencies with `npm install`.
+   - Start your local server running with `npm start`.
+4. Feel free to look around and learn some French slang!
+
+## Future Features
+
+- Adding speech to text to allow people to speak the slang to find the translation.
+- Make a version of this site into a mobile app for practical travelling use!
+
+## Contributions
+
+Any features or recommendations or additions to translations are much appreciated!
+
+> > > > > > > main

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Outlet } from 'react-router';
 import Nav from "../Nav.jsx";
+import VerlanList from "./VerlanList.jsx";
 
 export default function Root(){
 
