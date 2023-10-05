@@ -17,8 +17,8 @@ Verlan is a French slang, and though we were able to find a website that had tra
 To run this project in your own local development environment follow these steps:
 
 1. Clone the repository to your local environment.
-   - If you're working with HTTPS, use `git clone https://github.com/djprofessorkash/stable-diffusion-demo-api.git`.
-   - If you're working with SSH, use `git clone git@github.com/djprofessorkash/stable-diffusion-demo-api.git`.
+   - If you're working with HTTPS, use `git clone https://github.com/aokhepburn/French-To-Verlan-Dictionary.git`.
+   - If you're working with SSH, use `git@github.com:aokhepburn/French-To-Verlan-Dictionary.git`.
 2. Navigate to your `backend` subdirectory from the project root directory.
    - First, call `npm install` to install all referenced dependencies in our packaged files.
    - Next, run `npm start` to activate your backend.
