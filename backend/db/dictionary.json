@@ -154,7 +154,7 @@
       "id": 25,
       "verlan": "Cheuri",
       "francais": "Riche",
-      "english": "Rich"    
+      "english": "Rich"
     },
     {
       "id": 26,
@@ -790,6 +790,10 @@
     {
       "id": 0,
       "exemple": "Ce film est ouf, j’ai adoré le jeu d’acteur !"
+    },
+    {
+      "exemple": "Jé veux un méfu",
+      "id": 1
     }
   ]
 }
